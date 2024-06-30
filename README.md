@@ -1,2 +1,2 @@
-<a>https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Charlie2222223&theme=dracula</a>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
