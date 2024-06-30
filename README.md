@@ -1,12 +1,9 @@
 <p align="left">
-  <a href="https://github.com/yutkat/yutkat/">
-    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
+  <a href="https://github.com/Charlie2222223/Charlie2222223/">
+    <img src="https://komarev.com/ghpvc/?username=Charlie2222223" alt="Charlie2222223" />
   </a>
-  <a href="http://twitter.com/yutkat">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/yutkat">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/Charlie2222223">
+    <img height="20" src="https://img.shields.io/github/followers/Charlie2222223?label=follow&logo=github&style=flat" />
   </a>
   <a href="https://www.reddit.com/user/yutkat">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutkat?label=Reddit&logo=reddit&style=flat" />
