@@ -2,7 +2,7 @@
 
 **現在使える技術**
 
-  <a>[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,php,mysql,postgres)](https://skillicons.dev)</a>
+  <a>[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,php,mysql,postgres,yaml)](https://skillicons.dev)</a>
 
 **現在学んでいる技術**
 
