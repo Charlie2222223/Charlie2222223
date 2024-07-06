@@ -16,7 +16,7 @@
 
 **使えるエディタ**
 
-  <a>[![My Skills](https://skillicons.dev/icons?i=vscode,atom,)](https://skillicons.dev)</a>
+  <a>[![My Skills](https://skillicons.dev/icons?i=vscode,atom,intellij)](https://skillicons.dev)</a>
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
