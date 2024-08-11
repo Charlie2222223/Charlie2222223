@@ -6,11 +6,11 @@
 
 **現在学んでいる技術**
 
-  <a>[![My Skills](https://skillicons.dev/icons?i=express,nodejs,react,nextjs,tailwind,prisma)](https://skillicons.dev)</a>
+  <a>[![My Skills](https://skillicons.dev/icons?i=express,nodejs,react,nextjs,laravel,tailwind,prisma,aws)](https://skillicons.dev)</a>
 
 **これから学びたい技術**
 
-  <a>[![My Skills](https://skillicons.dev/icons?i=go,ruby,rails,laravel,aws)](https://skillicons.dev)</a>
+  <a>[![My Skills](https://skillicons.dev/icons?i=go,ruby,rails)](https://skillicons.dev)</a>
 
   <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie2222223&layout=donut)](https://github.com/Charlie2222223/github-readme-stats)</a>    
 
