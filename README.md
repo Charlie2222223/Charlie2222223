@@ -6,7 +6,7 @@
 
 **現在学んでいる技術**
 
-  <a>[![My Skills](https://skillicons.dev/icons?i=express,nodejs,react,nextjs,laravel,tailwind,prisma,aws)](https://skillicons.dev)</a>
+  <a>[![My Skills](https://skillicons.dev/icons?i=ts,express,nodejs,react,nextjs,laravel,tailwind,prisma,aws)](https://skillicons.dev)</a>
 
 **これから学びたい技術**
 
