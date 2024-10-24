@@ -17,9 +17,8 @@
 **使えるエディタ**
 
   <a>[![My Skills](https://skillicons.dev/icons?i=vscode,atom,idea,eclipse)](https://skillicons.dev)</a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Charlie2222223)](https://github.com/ryo-ma/github-profile-trophy)
-
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Charlie2222223&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
